@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name's Koji
+
+I'm a third year Computer Science and Bioinformatics student at the University of Toronto
+
+
 
 <!--
 **kojiwong/kojiwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
