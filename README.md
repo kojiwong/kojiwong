@@ -1,6 +1,4 @@
-### Bio
-
-Hi, my name's Koji
+### Hi, my name's Koji
 
 I'm a third year Computer Science and Bioinformatics student at the University of Toronto
 
