@@ -1,6 +1,6 @@
 ### Hi, my name's Koji
 
-I'm a third year Computer Science and Bioinformatics student at the University of Toronto
+I'm a fourth year Computer Science and Bioinformatics specialist student at the University of Toronto
 
 
 
